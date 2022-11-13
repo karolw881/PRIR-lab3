@@ -2,7 +2,7 @@
 
 # Celem Projektu :  rozwiązanie zadanych zadań za pomocą programowania równoleglego.
 
-### Karol Wojcik
+### Karol Wojcik 80292 UWB
 
 # Technologie :  100 % JAVA 
 
